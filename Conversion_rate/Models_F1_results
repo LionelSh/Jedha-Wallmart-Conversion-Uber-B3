@@ -1,0 +1,19 @@
+,model,f1_score,set
+8,Bagging_Decision_Tree,0.7802247191011235,train
+4,Random Forest,0.7756361993675651,train
+0,Logistic_Regression,0.7662073639033206,train
+14,XGBoost,0.766154998128042,train
+16,Voting,0.766154998128042,train
+6,Bagging Logistic,0.7652331098892822,train
+2,Decision_Tree,0.7639413631555084,train
+10,AdaBoost_logistic,0.7332395686826066,train
+12,AdaBoost_Decision_Tree,0.7332395686826066,train
+1,Logistic_Regression,0.7513032812020852,test
+7,Bagging Logistic,0.7510729613733906,test
+17,Voting,0.7502298498314435,test
+15,XGBoost,0.7486305538648813,test
+5,Random Forest,0.7469437652811737,test
+9,Bagging_Decision_Tree,0.743417023882425,test
+3,Decision_Tree,0.7413316968395214,test
+13,AdaBoost_Decision_Tree,0.7383863080684596,test
+11,AdaBoost_logistic,0.7287116176005064,test
